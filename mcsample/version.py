@@ -25,7 +25,7 @@ CLASSIFIERS = ['Development Status :: 3 - Alpha',
                'Topic :: Scientific/Engineering']
 
 # Description should be a one-liner:
-description = 'mcsample: sampling of canonical ensambles using the Metropolis algorithm'
+description = 'mcsample: Monte Carlo sampling of canonical ensambles using the Metropolis algorithm'
 # Long description will go up on the pypi page
 long_description = '''
 mcsample
